@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tornamira2796-hue.github.io/gc-black-friday/sitemap.xml
